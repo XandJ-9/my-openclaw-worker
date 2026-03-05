@@ -1,3 +1,6 @@
+.openclaw/
+
+
 # python 
 __pycache__/
 **.py[cod]
